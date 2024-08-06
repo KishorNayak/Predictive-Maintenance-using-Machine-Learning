@@ -1,0 +1,8 @@
+predictive-maintenance/
+├── app.py
+├── model.py
+├── requirements.txt
+├── static/
+│   └── styles.css
+└── templates/
+    └── index.html
